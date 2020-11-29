@@ -1,5 +1,6 @@
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import 'utils/mithril'
 
 /* Import all vendor.scss / css here[e.g. Import 'font-awesome/scss/font-awesome.scss';] */
 import { Routes, DefaultRoute } from './view/routes';

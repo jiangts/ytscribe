@@ -1,0 +1,16 @@
+.landing-page {
+  .column > .box {
+    height: 100vh;
+    .special {
+      white-space: pre-wrap;
+      overflow: auto;
+      height: 100%;
+    }
+    textarea {
+      width: 100%;
+      height: 100%;
+      font-size: 1em;
+      line-height: 1.5;
+    }
+  }
+}
