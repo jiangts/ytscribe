@@ -14,6 +14,10 @@
       height: 100%;
       font-size: 1em;
       line-height: 1.5;
+      border: 0;
+    }
+    textarea:focus {
+      outline: 0;
     }
   }
   .dropdown-menu .dropdown-item {
