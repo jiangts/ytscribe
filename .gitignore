@@ -1,6 +1,6 @@
 *swp
 # compiled output
-/dist
+# /dist
 
 # dependencies
 /node_modules
