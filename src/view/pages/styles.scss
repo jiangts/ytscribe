@@ -1,3 +1,6 @@
+#root {
+  overflow: hidden;
+}
 .landing-page {
   .column > .box {
     height: 100vh;
@@ -12,5 +15,14 @@
       font-size: 1em;
       line-height: 1.5;
     }
+  }
+  .dropdown-menu .dropdown-item {
+    padding-right: 1rem;
+  }
+  .region:hover {
+    background-color: yellow;
+  }
+  span.sel {
+    background-color: orange;
   }
 }
